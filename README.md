@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring Boot Shopping Cart Web App
 
 ## About
@@ -165,3 +166,7 @@ jdbc:h2:mem:shopping_cart_db
 
 In `/src/main/resources/application.properties` file it is possible to change both
 web interface url path, as well as the datasource url.
+=======
+# Tocheck
+tocheck
+>>>>>>> 0d4002f7e8287d417799c8e8423885be9682316f
